@@ -1,8 +1,8 @@
 #! /usr/bin/env ruby
 
-# prints out a greeting
+# prints out a farewell 
 def goodbye
-	puts 'goodbye mundo'
+	puts 'goodbye world'
 end
 
 goodbye()
